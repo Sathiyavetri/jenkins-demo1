@@ -1,7 +1,7 @@
 pipeline{
     
     agent {
-label 'worker_Linux'
+label 'worker_linux'
 }
 
     
